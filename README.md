@@ -1,0 +1,1 @@
+# partner-super-manifest
