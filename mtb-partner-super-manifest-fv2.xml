@@ -1,17 +1,17 @@
 <super-manifest version="2.0">
   <board-manifest-list>
-    <board-manifest dependency-url="https://github.com/Infineon/partner-bsp-manifest/raw/master/partner-bsp-dependencies-manifest.xml">
-      <uri>https://github.com/Infineon/partner-bsp-manifest/raw/master/partner-bsp-manifest-fv2.xml</uri>
+    <board-manifest dependency-url="https://github.com/Infineon/mtb-partner-bsp-manifest/raw/master/mtb-partner-bsp-dependencies-manifest.xml">
+      <uri>https://github.com/Infineon/mtb-partner-bsp-manifest/raw/master/mtb-partner-bsp-manifest-fv2.xml</uri>
     </board-manifest>
   </board-manifest-list>
   <app-manifest-list>
     <app-manifest>
-      <uri>https://github.com/Infineon/partner-ce-manifest/raw/master/partner-ce-manifest-fv2.xml</uri>
+      <uri>https://github.com/Infineon/mtb-partner-ce-manifest/raw/master/mtb-partner-ce-manifest-fv2.xml</uri>
     </app-manifest>
   </app-manifest-list>
   <middleware-manifest-list>
-    <middleware-manifest dependency-url="https://github.com/Infineon/partner-mw-manifest/raw/master/partner-mw-dependencies-manifest.xml">
-      <uri>https://github.com/Infineon/partner-mw-manifest/raw/master/partner-mw-manifest-fv2.xml</uri>
+    <middleware-manifest dependency-url="https://github.com/Infineon/mtb-partner-mw-manifest/raw/master/mtb-partner-mw-dependencies-manifest.xml">
+      <uri>https://github.com/Infineon/mtb-partner-mw-manifest/raw/master/mtb-partner-mw-manifest-fv2.xml</uri>
     </middleware-manifest>
   </middleware-manifest-list>
 </super-manifest>
